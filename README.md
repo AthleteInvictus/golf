@@ -1,2 +1,1 @@
-# golf
-# golf
+Golf rankings from owgr
